@@ -1,0 +1,4 @@
+﻿  1.1.cpp
+C:\Users\yaroslav\Desktop\lab_dir_vlada\1\1.1\1.1.cpp(10,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\yaroslav\Desktop\lab_dir_vlada\1\1.1\1.1.cpp(13,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  1.1.vcxproj -> C:\Users\yaroslav\Desktop\lab_dir_vlada\1\1.1\x64\Debug\1.1.exe
